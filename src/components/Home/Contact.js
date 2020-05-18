@@ -19,7 +19,7 @@ export default function Contact() {
                 className="form-control"
                 name="name"
                 id="name"
-                placeholder="john smith"
+                placeholder="Noah Osuolale"
               />
             </div>
             {/* email */}
